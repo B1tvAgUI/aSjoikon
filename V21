@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/B1tvAgUI/uNLUIMASDF/main/eUPAAP
+loadstring(game:HttpGet("https://raw.githubusercontent.com/B1tvAgUI/uNLUIMASDF/main/eUPAAP"))()
